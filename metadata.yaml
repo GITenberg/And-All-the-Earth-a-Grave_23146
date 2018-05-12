@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25709
     wikipedia: http://en.wikipedia.org/wiki/C._C._MacApp
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23146#And-All-the-Earth-a-Grave
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2007-10-22'
 gutenberg_type: Text
